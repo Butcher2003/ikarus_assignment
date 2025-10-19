@@ -1,0 +1,25 @@
+# file: requirements.txt
+pandas
+numpy
+tqdm
+requests
+Pillow
+sentence-transformers
+transformers
+torch
+torchvision
+faiss-cpu
+scikit-learn
+hdbscan
+umap-learn
+lightgbm
+matplotlib
+seaborn
+albumentations
+opencv-python
+fastapi
+uvicorn
+python-multipart
+pydantic
+pinecone-client
+langchain

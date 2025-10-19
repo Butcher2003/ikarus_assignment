@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+transformers
+torch
+faiss-cpu
+lightgbm
+pandas
+numpy
+scikit-learn

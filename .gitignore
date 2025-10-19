@@ -1,0 +1,40 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+*.pyd
+*.so
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+
+# Logs and caches
+*.log
+*.sqlite3
+*.db
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.cache
+
+# Coverage & reports
+htmlcov/
+.coverage*
+pytestdebug.log
+
+# OS files
+.DS_Store
+Thumbs.db
